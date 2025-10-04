@@ -1,4 +1,4 @@
-```markdown
+
 # Course Data Repository
 
 This repository serves as a collection point for course-specific questions and answers, structured in an easy-to-use JSON format. Each JSON file represents a single course, containing its title, contributor information, and a list of questions and their corresponding answers.
