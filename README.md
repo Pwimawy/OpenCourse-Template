@@ -15,10 +15,10 @@ You have two primary ways to get the `Course000data.json` file:
 This method is ideal if you plan to contribute your changes back to this GitHub repository via a Pull Request.
 
 1.  **Open your terminal or command prompt.**
-2.  **Run the following command.** Replace `[YOUR_REPOSITORY_URL]` with the actual URL of this GitHub repository (you can find it by clicking the green "Code" button on the GitHub page).
+2.  **Run the following command.** 
 
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
+    git clone https://github.com/Pwimawy/OpenCourse-Template.git
     ```
 
 3.  **Navigate to the Repository Directory.** Change your current directory to the newly cloned repository:
