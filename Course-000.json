@@ -1,0 +1,517 @@
+{
+  "id": "course-000",
+  "title": "UGRD-IT6285 Advanced Information Management",
+  "contributor": {
+    "name": "Peter",
+    "degree": "Bachelor of Science in Computer Science",
+    "avatar": "/contributorpfp/blankpfp.jpg",
+    "links": {
+      "facebook": "https://www.facebook.com/",
+      "instagram": "https://www.instagram.com/",
+      "github": "https://github.com/",
+      "youtube": "https://www.youtube.com/"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Question 1 goes here...",
+      "answer": "Answer 1 goes here..."
+    },
+    {
+      "id": 2,
+      "question": "Question 2 goes here...",
+      "answer": "Answer 2 goes here..."
+    },
+    {
+      "id": 3,
+      "question": "Question 3 goes here...",
+      "answer": "Answer 3 goes here..."
+    },
+    {
+      "id": 4,
+      "question": "Question 4 goes here...",
+      "answer": "Answer 4 goes here..."
+    },
+    {
+      "id": 5,
+      "question": "Question 5 goes here...",
+      "answer": "Answer 5 goes here..."
+    },
+    {
+      "id": 6,
+      "question": "Question 6 goes here...",
+      "answer": "Answer 6 goes here..."
+    },
+    {
+      "id": 7,
+      "question": "Question 7 goes here...",
+      "answer": "Answer 7 goes here..."
+    },
+    {
+      "id": 8,
+      "question": "Question 8 goes here...",
+      "answer": "Answer 8 goes here..."
+    },
+    {
+      "id": 9,
+      "question": "Question 9 goes here...",
+      "answer": "Answer 9 goes here..."
+    },
+    {
+      "id": 10,
+      "question": "Question 10 goes here...",
+      "answer": "Answer 10 goes here..."
+    },
+    {
+      "id": 11,
+      "question": "Question 11 goes here...",
+      "answer": "Answer 11 goes here..."
+    },
+    {
+      "id": 12,
+      "question": "Question 12 goes here...",
+      "answer": "Answer 12 goes here..."
+    },
+    {
+      "id": 13,
+      "question": "Question 13 goes here...",
+      "answer": "Answer 13 goes here..."
+    },
+    {
+      "id": 14,
+      "question": "Question 14 goes here...",
+      "answer": "Answer 14 goes here..."
+    },
+    {
+      "id": 15,
+      "question": "Question 15 goes here...",
+      "answer": "Answer 15 goes here..."
+    },
+    {
+      "id": 16,
+      "question": "Question 16 goes here...",
+      "answer": "Answer 16 goes here..."
+    },
+    {
+      "id": 17,
+      "question": "Question 17 goes here...",
+      "answer": "Answer 17 goes here..."
+    },
+    {
+      "id": 18,
+      "question": "Question 18 goes here...",
+      "answer": "Answer 18 goes here..."
+    },
+    {
+      "id": 19,
+      "question": "Question 19 goes here...",
+      "answer": "Answer 19 goes here..."
+    },
+    {
+      "id": 20,
+      "question": "Question 20 goes here...",
+      "answer": "Answer 20 goes here..."
+    },
+    {
+      "id": 21,
+      "question": "Question 21 goes here...",
+      "answer": "Answer 21 goes here..."
+    },
+    {
+      "id": 22,
+      "question": "Question 22 goes here...",
+      "answer": "Answer 22 goes here..."
+    },
+    {
+      "id": 23,
+      "question": "Question 23 goes here...",
+      "answer": "Answer 23 goes here..."
+    },
+    {
+      "id": 24,
+      "question": "Question 24 goes here...",
+      "answer": "Answer 24 goes here..."
+    },
+    {
+      "id": 25,
+      "question": "Question 25 goes here...",
+      "answer": "Answer 25 goes here..."
+    },
+    {
+      "id": 26,
+      "question": "Question 26 goes here...",
+      "answer": "Answer 26 goes here..."
+    },
+    {
+      "id": 27,
+      "question": "Question 27 goes here...",
+      "answer": "Answer 27 goes here..."
+    },
+    {
+      "id": 28,
+      "question": "Question 28 goes here...",
+      "answer": "Answer 28 goes here..."
+    },
+    {
+      "id": 29,
+      "question": "Question 29 goes here...",
+      "answer": "Answer 29 goes here..."
+    },
+    {
+      "id": 30,
+      "question": "Question 30 goes here...",
+      "answer": "Answer 30 goes here..."
+    },
+    {
+      "id": 31,
+      "question": "Question 31 goes here...",
+      "answer": "Answer 31 goes here..."
+    },
+    {
+      "id": 32,
+      "question": "Question 32 goes here...",
+      "answer": "Answer 32 goes here..."
+    },
+    {
+      "id": 33,
+      "question": "Question 33 goes here...",
+      "answer": "Answer 33 goes here..."
+    },
+    {
+      "id": 34,
+      "question": "Question 34 goes here...",
+      "answer": "Answer 34 goes here..."
+    },
+    {
+      "id": 35,
+      "question": "Question 35 goes here...",
+      "answer": "Answer 35 goes here..."
+    },
+    {
+      "id": 36,
+      "question": "Question 36 goes here...",
+      "answer": "Answer 36 goes here..."
+    },
+    {
+      "id": 37,
+      "question": "Question 37 goes here...",
+      "answer": "Answer 37 goes here..."
+    },
+    {
+      "id": 38,
+      "question": "Question 38 goes here...",
+      "answer": "Answer 38 goes here..."
+    },
+    {
+      "id": 39,
+      "question": "Question 39 goes here...",
+      "answer": "Answer 39 goes here..."
+    },
+    {
+      "id": 40,
+      "question": "Question 40 goes here...",
+      "answer": "Answer 40 goes here..."
+    },
+    {
+      "id": 41,
+      "question": "Question 41 goes here...",
+      "answer": "Answer 41 goes here..."
+    },
+    {
+      "id": 42,
+      "question": "Question 42 goes here...",
+      "answer": "Answer 42 goes here..."
+    },
+    {
+      "id": 43,
+      "question": "Question 43 goes here...",
+      "answer": "Answer 43 goes here..."
+    },
+    {
+      "id": 44,
+      "question": "Question 44 goes here...",
+      "answer": "Answer 44 goes here..."
+    },
+    {
+      "id": 45,
+      "question": "Question 45 goes here...",
+      "answer": "Answer 45 goes here..."
+    },
+    {
+      "id": 46,
+      "question": "Question 46 goes here...",
+      "answer": "Answer 46 goes here..."
+    },
+    {
+      "id": 47,
+      "question": "Question 47 goes here...",
+      "answer": "Answer 47 goes here..."
+    },
+    {
+      "id": 48,
+      "question": "Question 48 goes here...",
+      "answer": "Answer 48 goes here..."
+    },
+    {
+      "id": 49,
+      "question": "Question 49 goes here...",
+      "answer": "Answer 49 goes here..."
+    },
+    {
+      "id": 50,
+      "question": "Question 50 goes here...",
+      "answer": "Answer 50 goes here..."
+    },
+    {
+      "id": 51,
+      "question": "Question 51 goes here...",
+      "answer": "Answer 51 goes here..."
+    },
+    {
+      "id": 52,
+      "question": "Question 52 goes here...",
+      "answer": "Answer 52 goes here..."
+    },
+    {
+      "id": 53,
+      "question": "Question 53 goes here...",
+      "answer": "Answer 53 goes here..."
+    },
+    {
+      "id": 54,
+      "question": "Question 54 goes here...",
+      "answer": "Answer 54 goes here..."
+    },
+    {
+      "id": 55,
+      "question": "Question 55 goes here...",
+      "answer": "Answer 55 goes here..."
+    },
+    {
+      "id": 56,
+      "question": "Question 56 goes here...",
+      "answer": "Answer 56 goes here..."
+    },
+    {
+      "id": 57,
+      "question": "Question 57 goes here...",
+      "answer": "Answer 57 goes here..."
+    },
+    {
+      "id": 58,
+      "question": "Question 58 goes here...",
+      "answer": "Answer 58 goes here..."
+    },
+    {
+      "id": 59,
+      "question": "Question 59 goes here...",
+      "answer": "Answer 59 goes here..."
+    },
+    {
+      "id": 60,
+      "question": "Question 60 goes here...",
+      "answer": "Answer 60 goes here..."
+    },
+    {
+      "id": 61,
+      "question": "Question 61 goes here...",
+      "answer": "Answer 61 goes here..."
+    },
+    {
+      "id": 62,
+      "question": "Question 62 goes here...",
+      "answer": "Answer 62 goes here..."
+    },
+    {
+      "id": 63,
+      "question": "Question 63 goes here...",
+      "answer": "Answer 63 goes here..."
+    },
+    {
+      "id": 64,
+      "question": "Question 64 goes here...",
+      "answer": "Answer 64 goes here..."
+    },
+    {
+      "id": 65,
+      "question": "Question 65 goes here...",
+      "answer": "Answer 65 goes here..."
+    },
+    {
+      "id": 66,
+      "question": "Question 66 goes here...",
+      "answer": "Answer 66 goes here..."
+    },
+    {
+      "id": 67,
+      "question": "Question 67 goes here...",
+      "answer": "Answer 67 goes here..."
+    },
+    {
+      "id": 68,
+      "question": "Question 68 goes here...",
+      "answer": "Answer 68 goes here..."
+    },
+    {
+      "id": 69,
+      "question": "Question 69 goes here...",
+      "answer": "Answer 69 goes here..."
+    },
+    {
+      "id": 70,
+      "question": "Question 70 goes here...",
+      "answer": "Answer 70 goes here..."
+    },
+    {
+      "id": 71,
+      "question": "Question 71 goes here...",
+      "answer": "Answer 71 goes here..."
+    },
+    {
+      "id": 72,
+      "question": "Question 72 goes here...",
+      "answer": "Answer 72 goes here..."
+    },
+    {
+      "id": 73,
+      "question": "Question 73 goes here...",
+      "answer": "Answer 73 goes here..."
+    },
+    {
+      "id": 74,
+      "question": "Question 74 goes here...",
+      "answer": "Answer 74 goes here..."
+    },
+    {
+      "id": 75,
+      "question": "Question 75 goes here...",
+      "answer": "Answer 75 goes here..."
+    },
+    {
+      "id": 76,
+      "question": "Question 76 goes here...",
+      "answer": "Answer 76 goes here..."
+    },
+    {
+      "id": 77,
+      "question": "Question 77 goes here...",
+      "answer": "Answer 77 goes here..."
+    },
+    {
+      "id": 78,
+      "question": "Question 78 goes here...",
+      "answer": "Answer 78 goes here..."
+    },
+    {
+      "id": 79,
+      "question": "Question 79 goes here...",
+      "answer": "Answer 79 goes here..."
+    },
+    {
+      "id": 80,
+      "question": "Question 80 goes here...",
+      "answer": "Answer 80 goes here..."
+    },
+    {
+      "id": 81,
+      "question": "Question 81 goes here...",
+      "answer": "Answer 81 goes here..."
+    },
+    {
+      "id": 82,
+      "question": "Question 82 goes here...",
+      "answer": "Answer 82 goes here..."
+    },
+    {
+      "id": 83,
+      "question": "Question 83 goes here...",
+      "answer": "Answer 83 goes here..."
+    },
+    {
+      "id": 84,
+      "question": "Question 84 goes here...",
+      "answer": "Answer 84 goes here..."
+    },
+    {
+      "id": 85,
+      "question": "Question 85 goes here...",
+      "answer": "Answer 85 goes here..."
+    },
+    {
+      "id": 86,
+      "question": "Question 86 goes here...",
+      "answer": "Answer 86 goes here..."
+    },
+    {
+      "id": 87,
+      "question": "Question 87 goes here...",
+      "answer": "Answer 87 goes here..."
+    },
+    {
+      "id": 88,
+      "question": "Question 88 goes here...",
+      "answer": "Answer 88 goes here..."
+    },
+    {
+      "id": 89,
+      "question": "Question 89 goes here...",
+      "answer": "Answer 89 goes here..."
+    },
+    {
+      "id": 90,
+      "question": "Question 90 goes here...",
+      "answer": "Answer 90 goes here..."
+    },
+    {
+      "id": 91,
+      "question": "Question 91 goes here...",
+      "answer": "Answer 91 goes here..."
+    },
+    {
+      "id": 92,
+      "question": "Question 92 goes here...",
+      "answer": "Answer 92 goes here..."
+    },
+    {
+      "id": 93,
+      "question": "Question 93 goes here...",
+      "answer": "Answer 93 goes here..."
+    },
+    {
+      "id": 94,
+      "question": "Question 94 goes here...",
+      "answer": "Answer 94 goes here..."
+    },
+    {
+      "id": 95,
+      "question": "Question 95 goes here...",
+      "answer": "Answer 95 goes here..."
+    },
+    {
+      "id": 96,
+      "question": "Question 96 goes here...",
+      "answer": "Answer 96 goes here..."
+    },
+    {
+      "id": 97,
+      "question": "Question 97 goes here...",
+      "answer": "Answer 97 goes here..."
+    },
+    {
+      "id": 98,
+      "question": "Question 98 goes here...",
+      "answer": "Answer 98 goes here..."
+    },
+    {
+      "id": 99,
+      "question": "Question 99 goes here...",
+      "answer": "Answer 99 goes here..."
+    },
+    {
+      "id": 100,
+      "question": "Question 100 goes here...",
+      "answer": "Answer 100 goes here..."
+    }
+  ]
+}
